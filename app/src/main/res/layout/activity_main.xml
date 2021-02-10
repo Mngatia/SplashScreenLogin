@@ -36,7 +36,7 @@
         android:layout_marginRight="16dp"
         android:fontFamily="sans-serif-black"
         android:gravity="center"
-        android:text="Welcome back! Login your account"
+        android:text="Welcome! Login your account"
         android:textSize="42sp"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="parent"
